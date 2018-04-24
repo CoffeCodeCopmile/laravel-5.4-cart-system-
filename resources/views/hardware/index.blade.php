@@ -29,8 +29,8 @@
                 <tr>
                     <th>#</th>
                     <th>Cpu</th>
-                    //<th>Gpu</th>
-                    //<th>Ram</th>
+                    <th>Gpu</th>
+                    <th>Ram</th>
                     <th>Hd</th>
                     <th>Ssd</th>
                     <th>Screen quality</th>
