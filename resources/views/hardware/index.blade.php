@@ -28,14 +28,14 @@
                 <thead class="bg-dark" style="color: white">
                 <tr>
                     <th>#</th>
-                    <th>cpu</th>
-                    <th>gpu</th>
-                    <th>ram</th>
-                    <th>hd</th>
-                    <th>ssd</th>
-                    <th>screen quality</th>
-                    <th>created at</th>
-                    <th>updated at</th>
+                    <th>Cpu</th>
+                    <th>Gpu</th>
+                    <th>Ram</th>
+                    <th>Hd</th>
+                    <th>Ssd</th>
+                    <th>Screen quality</th>
+                    <th>Created at</th>
+                    <th>Updated at</th>
                     <th>Edit</th>
                     <th>Delete</th>
                 </tr>
